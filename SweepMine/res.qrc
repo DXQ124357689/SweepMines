@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/blank.bmp</file>
+        <file>res/blankHighLight.bmp</file>
+        <file>res/bomb.bmp</file>
+        <file>res/boom.wav</file>
+        <file>res/border1.bmp</file>
+        <file>res/border2.bmp</file>
+        <file>res/click.bmp</file>
+        <file>res/fail.bmp</file>
+        <file>res/figure0.bmp</file>
+        <file>res/figure1.bmp</file>
+        <file>res/figure2.bmp</file>
+        <file>res/figure3.bmp</file>
+        <file>res/figure4.bmp</file>
+        <file>res/figure5.bmp</file>
+        <file>res/figure6.bmp</file>
+        <file>res/figure7.bmp</file>
+        <file>res/figure8.bmp</file>
+        <file>res/figure9.bmp</file>
+        <file>res/flag.bmp</file>
+        <file>res/flagBomb.bmp</file>
+        <file>res/flagError.bmp</file>
+        <file>res/flagHighLight.bmp</file>
+        <file>res/icon0.bmp</file>
+        <file>res/icon1.bmp</file>
+        <file>res/icon-1.bmp</file>
+        <file>res/icon2.bmp</file>
+        <file>res/icon3.bmp</file>
+        <file>res/icon4.bmp</file>
+        <file>res/icon5.bmp</file>
+        <file>res/icon6.bmp</file>
+        <file>res/icon7.bmp</file>
+        <file>res/icon8.bmp</file>
+        <file>res/ing.bmp</file>
+        <file>res/win.bmp</file>
+    </qresource>
+</RCC>
